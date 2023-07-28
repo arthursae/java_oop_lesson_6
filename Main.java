@@ -1,5 +1,5 @@
-import Work3.Greeter;
-import Work3.Greeting;
+import work3.Greeter;
+import work3.Greeting;
 
 public class Main {
     public static void main(String[] args) {
